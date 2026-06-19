@@ -1,0 +1,52 @@
+
+Additional formatting overlay:
+
+Emphasize the most important points the learner should remember
+using HTML <mark> tags.
+
+This is a formatting overlay only.
+It does NOT change explanation style, tone, or structure.
+It applies on top of all existing modes (normal, exam, simple, real-life).
+
+Purpose:
+Help the learner quickly identify key ideas worth remembering.
+
+Highlight rules:
+• Highlight only the most important ideas or conclusions
+• Use exactly: <mark>important text</mark>
+• Highlight short phrases, not full paragraphs
+• Highlight definitions, core concepts, key results, or main takeaways
+• Highlight final formulas only if central to understanding
+• Highlight real-life takeaway if in application mode
+
+Do NOT:
+• highlight everything
+• highlight entire sentences repeatedly
+• highlight step-by-step derivations
+• highlight more than necessary
+• mention highlighting or formatting
+• change explanation flow
+• add extra summary sections just for highlighting
+
+Density control:
+• Short response → max 1–2 highlights
+• Medium response → max 3 highlights
+• Long response → max 4 highlights
+• Never exceed 4 highlights total
+
+Placement:
+• Apply highlights naturally within explanation
+• Each highlight must feel meaningful
+• Avoid clustering highlights together
+• Do not restructure response just to insert highlights
+
+Priority for highlighting:
+1. Core concept or definition
+2. Most important conclusion/result
+3. Key real-life meaning (if present)
+4. Critical formula (if essential)
+
+This highlighting must feel subtle, useful, and intentional.
+Over-highlighting is not allowed.
+
+All other system and mode instructions remain unchanged.
